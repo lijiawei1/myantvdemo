@@ -1,0 +1,9 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "@antv/g6": "4.7.14"
+  },
+  "keywords": [],
+  "name": "antv-g6-tree",
+  "description": "树形图，严格的数据结构，不能添加游离态的节点，可以通过点击事件添加"
+}
